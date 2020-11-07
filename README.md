@@ -1,1 +1,2 @@
-This is my first README--
+library(devtools)
+install_github("karpatit/mechkar")
